@@ -1,7 +1,0 @@
-/Users/alexdagostino/programming/dummy-cpack-project/build/CMakeFiles/dummylib.dir
-/Users/alexdagostino/programming/dummy-cpack-project/build/CMakeFiles/edit_cache.dir
-/Users/alexdagostino/programming/dummy-cpack-project/build/CMakeFiles/rebuild_cache.dir
-/Users/alexdagostino/programming/dummy-cpack-project/build/CMakeFiles/list_install_components.dir
-/Users/alexdagostino/programming/dummy-cpack-project/build/CMakeFiles/install.dir
-/Users/alexdagostino/programming/dummy-cpack-project/build/CMakeFiles/install/local.dir
-/Users/alexdagostino/programming/dummy-cpack-project/build/CMakeFiles/install/strip.dir

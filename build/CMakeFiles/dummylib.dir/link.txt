@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libdummylib.a CMakeFiles/dummylib.dir/src/hello.cc.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libdummylib.a
