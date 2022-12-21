@@ -1,0 +1,2 @@
+/Users/alexdagostino/programming/dummy-cpack-project/build/./lib/libdummylib.a
+/Users/alexdagostino/programming/dummy-cpack-project/build/./include/include/hello.hh
